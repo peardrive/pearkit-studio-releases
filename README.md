@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/icon.png" alt="Pearkit Studio" width="128" /></p>
+
 # Pearkit Studio: downloads
 
 Pearkit Studio is the desktop app for looking at the components of [Pearkit](https://github.com/peardrive/pearkit),
